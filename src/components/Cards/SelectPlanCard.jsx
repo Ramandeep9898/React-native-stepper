@@ -24,7 +24,7 @@ export const SelectPlanCard = ({ cardDetails, onBoxSelect, selectedCard }) => {
               backgroundColor: colors.primary,
               width: 50,
               height: 50,
-              borderRadius: "50%",
+              borderRadius: 40,
             }}
           ></View>
           <View>

@@ -131,14 +131,14 @@ const buttonStyles = StyleSheet.create({
   button: {
     borderWidth: 1,
     borderColor: colors.lightPurple,
-    borderRadius: "50%",
+    borderRadius: 40,
     paddingHorizontal: 12,
     paddingVertical: 8,
   },
   clickedButton: {
     borderWidth: 1,
     borderColor: colors.lightPurple,
-    borderRadius: "50%",
+    borderRadius: 40,
     paddingHorizontal: 12,
     paddingVertical: 8,
     backgroundColor: colors.lightPurple,
