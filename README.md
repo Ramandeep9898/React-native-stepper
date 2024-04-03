@@ -15,7 +15,7 @@
 
 - React Native
 - Expo SDK 49
-- TypeScript
+- React Navigation.
 
 
 
